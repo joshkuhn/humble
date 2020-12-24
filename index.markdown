@@ -5,7 +5,12 @@
 layout: home
 ---
 
-Running is defined as a type of gait characterized by an aerial phase in which both feet are off the ground for an instant with each step propelling you forward. 
+![Running in AZ](./images/isaac-wendland-running-in-az-medium.jpg)
+<span style="color:grey; font-size:0.7em">Photo by [Isaac Wendland](https://unsplash.com/@isaacwendland) via [Unsplash](https://unsplash.com)</span>
+
+## Mission and Vision of Humble Running
+
+Running is defined as a type of gait, characterized by an aerial phase in which both feet are off the ground for an instant with each step propelling you forward. 
 To me, running is so much more than this anatomical description. The reason I initially started running, like most individuals, was because I was out of shape 
 and wanted be a little “healthier”. Once I started running, I realized I got a lot more than I bargained for; it became more than just a workout so I can justify
 a beer at the end of a long day. I found a community that was accepting to all walks of life that did not care about your experience, the number of miles you 
@@ -25,5 +30,5 @@ above all I want to make sure you do not lose the love of running. I look forwar
 
 Pace be with you,
 
-Ryan Vena 
+Coach Vena 
 
